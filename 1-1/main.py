@@ -45,4 +45,4 @@ all_lowercase = None
 first_five_letters = None
 last_two_letters = None
 
-# Question 6
+
