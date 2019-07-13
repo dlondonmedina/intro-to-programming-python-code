@@ -18,7 +18,7 @@ print ((int(pickANumber) * 2 + 5))
 print ("Now multiply that number by 50")
 print (((int(pickANumber) * 2 + 5)*50))
 
-magicNumber = 1768 #for 2018
+magicNumber = 1769 #for 2019
 alreadyCelebratedBirthday = input("Did you already celebrate your birthday this year[y/n]?")
 almostThere = 0
 if alreadyCelebratedBirthday == 'y':
